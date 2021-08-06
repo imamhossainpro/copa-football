@@ -33,7 +33,7 @@
   }
 }
 
-/* @media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1024px) {
   .copa-section {
     grid-template-columns: repeat(2, 1fr);
     margin-left: 30px;
@@ -66,4 +66,4 @@
     font-size: 40px;
     line-height: 50px;
   }
-} */
+}
